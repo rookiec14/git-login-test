@@ -4,7 +4,7 @@ import os
 
 #generate your own unique cookie key here to secure your session cookie
 #Tip: In a python interpreter you can use "os.urandom(64).encode('base64')" to generate the key
-COOKIE_KEY = 'vGkK3LfSaOFKNS2iZZgbCemUvm6xfIU5k64RU180nYFhKF5sF5plIViGtzMZWLJI0yPdfTrMiYHj\nbTv9PsCKHw==\n'
+COOKIE_KEY = '4PqH814L0QidXlfRK/BX5moRTdxzbUbNMN64cGfXTtrQtoJCi010fuV3te4Swk/YLKNaRBtXqE9G\n8joKosECZw==\n'
 
 # URL for the development app engine server
 _DEV_SERVER_URL = 'http://localhost:9080'
