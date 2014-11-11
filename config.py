@@ -13,7 +13,7 @@ _DEV_SERVER_URL = 'http://localhost:9080'
 _PROD_SERVER_URL = 'http://git-login-test.appspot.com'
 
 # Your API_KEY for identity toolkit on the Google dev console
-API_KEY = 'AIzaSyAsXd6ikdbSMuCjQdtUP93huVuTIFBms-8'
+API_KEY = 'AIzaSyByvhjnpzR229OAjLmOLVULsuMoDXVNOJ0'
 
 # Debug mode
 _DEBUG = True
